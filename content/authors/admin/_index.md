@@ -49,8 +49,8 @@ education:
     institution: Northwestern University
     date_start: 2015-08-15
     date_end: 2020-06-30
- #   summary: |
- #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#   summary: |
+#     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
