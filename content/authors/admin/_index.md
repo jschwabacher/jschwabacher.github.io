@@ -1,6 +1,6 @@
 ---
 # Display name
-title: James C. Schwabacher, Ph.D.
+title: James C. Schwabacher, PhD
 
 # Name pronunciation (optional)
 name_pronunciation: ''
