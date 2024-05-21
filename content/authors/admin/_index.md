@@ -36,7 +36,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/schwabacher
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/](https://scholar.google.com/citations?user=T8e0KA8AAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=T8e0KA8AAAAJ&hl=en
 
 interests:
   - Data Science & Analytics
