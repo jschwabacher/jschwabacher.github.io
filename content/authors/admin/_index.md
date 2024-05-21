@@ -11,7 +11,7 @@ last_name: Schwabacher
 
 # Status emoji
 status: ''
-  icon: ''
+icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -136,11 +136,11 @@ skills:
 
 # languages:
 #  - name: English
-    percent: 100
+#    percent: 100
 #  - name: Chinese
-    percent: 75
+#    percent: 75
 #  - name: Portuguese
-    percent: 25
+#    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
