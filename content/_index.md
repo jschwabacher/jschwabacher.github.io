@@ -19,7 +19,7 @@ sections:
         text: Connect on LinkedIn
         url: https://www.linkedin.com/in/schwabacher/
     design:
-      css_class: dark
+      css_class: light
       background:
         color: white
         image:
