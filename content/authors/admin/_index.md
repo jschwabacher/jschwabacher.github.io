@@ -157,6 +157,6 @@ skills:
  
 ---
 
-## About Me
+## About James
 
 James C. Schwabacher, Ph.D. is a Senior Consultant at Beghou Consulting, LLC. James draws on his experience as a scientist to produce innovative evidence-backed solutions for clients in the Life Sciences industry. Before joining Beghou, James was an NSF Graduate Research Fellow at Northwestern University. James' research experience spans materials, inorganic, and physical chemistry at the nanoscale. James applied his scientific thinking while at Northwestern to improve science education through completing teaching-as-research projects, redesigning teaching assistant trainings, co-founding a teaching-focused community, and spearheading initiaitives with the Center for the Integration of Research, Teaching, and Learning. As a member of his department's Graduate Liaison Committee, James fostered communities and programming that broke down institutional hierarchies and enacted positive organizational change.
