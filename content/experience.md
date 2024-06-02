@@ -1,3 +1,7 @@
+---
+title: Bio
+type: single
+---
 ### Hi, I'm a scientist based in Chicago, IL.
 
 As a Senior Consultant at Beghou Consulting, I work on cross-functional teams to guide clients in the Life Sciences industry through the intricacies of the health care marketplace. I leverage skills as a data scientist to generate actionable insights by synthesizing, managing, and analyzing patient- and physician-level data. I also design and curate experiences for users of Beghou's proprietary technology. With all projects, I apply a broad frame of reference while balancing what is doable with what is actually worth doing to ensure consistent quality. I have a passion for quickly learning new information and communicating evidence-based solutions to audiences of all backgrounds. In alignment with my scientific training, I remain open to new information and am willing to adjust recommendations based on newly acquired data.
